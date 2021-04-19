@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/roboapp-redux/static/css/main.4f17a5f3.chunk.css",
+    "main.js": "/roboapp-redux/static/js/main.024e66fe.chunk.js",
+    "main.js.map": "/roboapp-redux/static/js/main.024e66fe.chunk.js.map",
+    "runtime-main.js": "/roboapp-redux/static/js/runtime-main.1910f1e0.js",
+    "runtime-main.js.map": "/roboapp-redux/static/js/runtime-main.1910f1e0.js.map",
+    "static/css/2.fe359a49.chunk.css": "/roboapp-redux/static/css/2.fe359a49.chunk.css",
+    "static/js/2.1b6b3d56.chunk.js": "/roboapp-redux/static/js/2.1b6b3d56.chunk.js",
+    "static/js/2.1b6b3d56.chunk.js.map": "/roboapp-redux/static/js/2.1b6b3d56.chunk.js.map",
+    "static/js/3.e7f467bf.chunk.js": "/roboapp-redux/static/js/3.e7f467bf.chunk.js",
+    "static/js/3.e7f467bf.chunk.js.map": "/roboapp-redux/static/js/3.e7f467bf.chunk.js.map",
+    "index.html": "/roboapp-redux/index.html",
+    "service-worker.js": "/roboapp-redux/service-worker.js",
+    "service-worker.js.map": "/roboapp-redux/service-worker.js.map",
+    "static/css/2.fe359a49.chunk.css.map": "/roboapp-redux/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.4f17a5f3.chunk.css.map": "/roboapp-redux/static/css/main.4f17a5f3.chunk.css.map",
+    "static/js/2.1b6b3d56.chunk.js.LICENSE.txt": "/roboapp-redux/static/js/2.1b6b3d56.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboapp-redux/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1910f1e0.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.1b6b3d56.chunk.js",
+    "static/css/main.4f17a5f3.chunk.css",
+    "static/js/main.024e66fe.chunk.js"
+  ]
+}
